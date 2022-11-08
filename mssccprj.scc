@@ -1,0 +1,12 @@
+SCC = This is a Source Code Control file
+
+[NeoCvConjDatos.vbp]
+SCC_Aux_Path =\\Pcinstalaciones\VSS\,
+SCC_Project_Name ="$/NeoComViv/NeoCvConjDatos", EQDAAAAA
+
+[Proyecto1.vbp]
+SCC_Aux_Path =\\Pcinstalaciones\VSS\,
+SCC_Project_Name ="$/NeoComViv/NeoCvConjDatos", EQDAAAAA
+[ConjDatos.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>

@@ -1,0 +1,15 @@
+DBUtil = 48, 54, 909, 562, 
+Columna = 189, 212, 805, 753, C
+Columnas = 175, 276, 865, 817, C
+Fila = 102, 38, 590, 579, C
+Filas = -72, 29, 706, 570, C
+ConjuntoDatos = 52, 163, 838, 660, C
+Tablas = 127, 321, 873, 862, C
+Tabla = 133, 52, 725, 593, C
+Replicacion = 203, 463, 1016, 913, C
+modAddBackSlash = 0, 0, 0, 0, C
+modCreateGUID = 0, 0, 0, 0, C
+modCreateRelationshipUsingADOX = 0, 0, 0, 0, C
+modUpdateDatabaseWithModelUsingADOX = 37, 143, 1015, 780, C
+cResults = 0, 0, 0, 0, C
+cUpdateADO = 136, 143, 857, 780, C
